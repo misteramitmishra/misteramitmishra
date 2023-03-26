@@ -3,7 +3,8 @@
    <p><a href="https://github.com/misteramitmishra" target="_new"><img src="https://img.shields.io/github/followers/misteramitmishra?style=social" alt="GitHub followers"></a>
       <a href="https://www.linkedin.com/in/misteramitmishra/" target="_new"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/misteramitmishra/" alt="Linkedin Follow"></a>
    </p>
-   <p>I'm a Full Stack Developer and Software Engineer with several years of experience in the IT industry. My goal is to deliver high quality web projects that are well designed, functional, and fully tested. I have worked on over 50 various projects using technologies such as Angular, React.js, Vue.js, Node.js, Laravel, PHP, and MySQL.</p>
+   <p> As an experienced Full Stack Developer with expertise in a range of technologies including Angular, React.js, Vue.js, Laravel, Node.js, I am passionate about delivering high-quality web applications that are well designed, functional, and fully tested. With a strong background in both front-end and back-end development, I am committed to staying up-to-date with the latest industry trends and best practices. I have also integrated several third-party APIs such as social login, SMS gateways, and payment gateways, and I am experienced in working with popular CMS platforms like WordPress.
+   </p>
    <h2>&#128161; Skills</h2>
    <ul>
       <li>Angular</li>
