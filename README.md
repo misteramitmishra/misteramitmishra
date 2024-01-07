@@ -1,89 +1,80 @@
 <div class="misteramitmishra">
-   <h1>Hi there, I'm [Amit Mishra] 👋</h1>
-   <p><a href="https://github.com/misteramitmishra" target="_new"><img src="https://img.shields.io/github/followers/misteramitmishra?style=social" alt="GitHub followers"></a>
+   <h1>Hi there, I'm [Amit Mishra] <i>misteramitmishra</i>👋</h1>
+   <p>
       <a href="https://www.linkedin.com/in/misteramitmishra/" target="_new"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/misteramitmishra/" alt="Linkedin Follow"></a>
    </p>
-   <p> As an experienced Full Stack Developer with expertise in a range of technologies including Angular, React.js, Vue.js, Laravel, Node.js, I am passionate about delivering high-quality web applications that are well designed, functional, and fully tested. With a strong background in both front-end and back-end development, I am committed to staying up-to-date with the latest industry trends and best practices. I have also integrated several third-party APIs such as social login, SMS gateways, and payment gateways, and I am experienced in working with popular CMS platforms like WordPress.
-   </p>
+   <p> 🌟🤝 Hi, thank you for visiting my profile. </p>
+   <ul type="square">
+      <li>🏡 I am Amit Mishra, from Ayodhya, currently living in Lucknow.</li>
+      <li> 💻 As a Full Stack Software Engineer with around 4 years of experience in creating high-quality web projects using various technologies and frameworks. </li>
+      <li> 👨‍💻 I work as a Software Engineer at Laitkor Consultancy Services, where I focus on Full-stack development. </li>
+      <li> 💡 Previously, I worked as a Web Software Developer at DigiCoders Technologies Private Limited, where I honed my web development skills.</li>
+      <li> 🏆 Proud Brand Ambassador and award winner of Government Polytechnic, Madhogarh, associated with the Board Of Technical Education Uttar Pradesh Lucknow. </li>
+      <li> 🚀 Passionate about web development and always eager to learn new things, staying updated with the latest trends and technologies. </li>
+   </ul>
    <h2>&#128161; Skills</h2>
-   <ul>
-      <li>Angular</li>
-      <li>React.js</li>
-      <li>Vue.js</li>
-      <li>Node.js</li>
-      <li>Laravel</li>
-      <li>PHP</li>
-      <li>MySQL</li>
-      <li>Zoho CRM APIs Integration</li>
-      <li>KnockoutJS</li>
-      <li>SurveyJs</li>
-      <li>Express.js</li>
-      <li>Full-Stack Development</li>
-      <li>Mean Stack</li>
-      <li>MERN Stack</li>
-      <li>Back-End Web Development</li>
-      <li>Front-End Development</li>
-      <li>Web Development</li>
-      <li>Software Development</li>
-      <li>Social Login APIs Integration</li>
-      <li>Third Party APIs Integration</li>
-      <li>SMS Gateways Integration</li>
-      <li>Payment Gateways Integration</li>
-      <li>MongoDB</li>
-      <li>WordPress</li>
-      <li>GitHub</li>
-      <li>Git</li>
-      <li>CodeIgniter</li>
-      <li>Stripe Connect</li>
-      <li>Paypal Integration</li>
-      <li>SQL</li>
-      <li>JSON</li>
-      <li>jQuery</li>
-      <li>JavaScript</li>
+   <ul type="square">
+      <li>HTML, CSS, Bootstrap</li>
+      <li>JavaScript, JSON, jQuery, AJAX</li>
+      <li>PHP, CodeIgniter, Laravel, WordPress</li>
+      <li>SQL, MySQL, MongoDB</li>
+      <li>Git, GitHub, Gitlab</li>
+      <li>Node.js, Express.js</li>
+      <li>Angular, React.js, Vue.js</li>
+      <li>SurveyJs, KnockoutJS</li>
+      <li>Social Login APIs Integration, Third Party APIs Integration</li>
+      <li>SMS Gateways Integration, Payment Gateways Integration</li>
    </ul>
    <h2>🔭 Work Experience</h2>
-   <h3>@ Software Engineer at Laitkor Consultancy Services Pvt. Ltd. (March 2022 - Present)</h3>
-   <ul>
-      <li>Worked with PHP, Laravel, and Node.js for backend development</li>
-      <li>Utilized Angular, React.js, and Vue.js for frontend development</li>
-      <li>Integrated Zoho CRM APIs, SurveyJs, and KnockoutJS</li>
-      <li>Developed and maintained full-stack web applications</li>
+   <h3>@ Full Stack Software Engineer at Laitkor Consultancy Services Pvt. Ltd. (March 2022 - Present)</h3>
+   <ul type="square">
+      <li>🚀 As a Full Stack Developer at LCS, I develop and maintain web applications using Backend: PHP, CodeIgniter, Laravel, and Node.js; Frontend: Angular, React.js, and Vue.js; Database: MySQL and MongoDB.</li>
+      <li>🤝 I connect our projects with various APIs and services like Google, Microsoft, Twitter, Stripe, PayPal, Square, Twilio, S&S Activewear, SanMar, and Alpha Broder.</li>
+      <li>🛠️ My tasks include development, deployment, integration testing, code reviews, and ensuring quality and efficiency through process auditing.</li>
+      <li>👩‍💻 I collaborate with other developers, designers, and project managers using GitHub, Git, Jira, and Freshdesk.</li>
+      <li><strong>💻🌐 Project Portfolio:</strong>
+         <ul type="circle">
+            <li>🎨 Screen Printing & Embroidery Shop Management (Laravel + Angular + MySQL)</li>
+            <li>🌿 Massage and Wellness (CodeIgniter + MySQL)</li>
+            <li>📚 Document Collaboration and Collection (Node.js + Vue.js + MySQL)</li>
+            <li>🍽️ Anonymous Feedback to your Favourite Restaurants (Node.js + React.js + MongoDB)</li>
+         </ul>
+      </li>
    </ul>
-   <h3>@ Senior Web Software Developer at DigiCoders Technologies Private Limited (June 2021 - February 2022)</h3>
-   <ul>
-      <li>Worked with Laravel, PHP, MySQL, and CodeIgniter for web development</li>
-      <li>Integrated social login APIs, SMS gateways, and payment gateways</li>
-      <li>Developed and maintained full-stack web applications</li>
-   </ul>
-   <h3>@ Web Software Developer at DigiCoders Technologies Private Limited (November 2019 - May 2021)</h3>
-   <ul>
-      <li>Worked with MySQL, PHP, CodeIgniter, and jQuery for web development</li>
-      <li>Developed and maintained full-stack web applications</li>
+   <h3>@ Web Software Developer at DigiCoders Technologies Private Limited (November 2019 - February 2022)</h3>
+   <ul type="square">
+      <li>👨‍💻 As a Web Software Developer at DigiCoders, I worked on developing and maintaining various web applications and websites.</li>
+      <li><strong>💻🌐 Project Portfolio:</strong>
+         <ul type="circle">
+            <li>🎓 Institute ERP and Exam Portal (PHP + CodeIgniter + MySQL)</li>
+            <li>🛒 Online Shopping E-Commerce Portal (PHP + CodeIgniter + MySQL)</li>
+            <li>📦 Inventory and Orders Management (CodeIgniter + MySQL)</li>
+            <li>🍔 Food Delivery App (Bootstrap + PHP + MySQL)</li>
+            <li>🎓 Online Education and Training Portal (Laravel + MySQL)</li>
+         </ul>
+      </li>
    </ul>
    <h3>@ Web Developer Internship at Developer at DigiCoders Technologies Private Limited (July 2019 - October 2019)</h3>
-   <ul>
-      <li>Worked with MySQL, PHP, CodeIgniter, and jQuery for web development</li>
-      <li>Assisted with the development and maintenance of web applications</li>
-   </ul>
-   <h2>&#x25CA; Honors and Awards</h2>
-   <ul>
-      <li>Brand Ambassador, issued by Government Polytechnic, Madhogarh (Jalaun), October 2019</li>
-      <li>1st Position, issued by Government Polytechnic, Madhogarh (Jalaun), October 2019</li>
-   </ul>
-   <h2>👯 I’m looking to collaborate on...</h2>
-   <ul>
-      <li>Open-source projects related to web development</li>
-      <li>Building scalable and secure web applications</li>
+   <ul type="square">
+      <li>👨‍💻 As a Web Developer Intern at DigiCoders, I worked on various web development projects using HTML, CSS, Bootstrap, JavaScript, jQuery, JSON, PHP, and MySQL.</li>
+      <li>🚀🧠💡 I learned a lot about web development best practices, tools, and frameworks during my internship. I also gained valuable experience in working with a team of developers and designers</li>
+      <li><strong>💻🌐 Project Portfolio:</strong>
+         <ul type="circle">
+            <li>🍽️ Responsive website for a local restaurant (Bootstrap + PHP)</li>
+            <li>📲 Web application for SMS messages (PHP + JavaScript + SMS gateways + MySQL)</li>
+            <li>💳 Web portal for online payment processing (PHP + Payment gateways)</li>
+         </ul>
+      </li>
    </ul>
    <h2>💬 Ask me about...</h2>
-   <ul>
+   <ul type="square">
       <li>Full-stack development</li>
-      <li>Building web applications with Laravel, Angular, ReactJS, VueJS, and NodeJS</li>
+      <li>Building web applications with PHP, CodeIgniter, Laravel, MySQL, Angular, ReactJS, VueJS, NodeJS, and MongoDB</li>
       <li>Integrating APIs with third-party services</li>
       <li>Software design patterns and best practices</li>
    </ul>
    <h2>📫 How to reach me...</h2>
-   <ul>
+   <ul type="square">
       <li><a href="https://www.linkedin.com/in/misteramitmishra/" target="_new">LinkedIn</a></li>
       <li><a href="mailto:amitmishra224205@gmail.com" target="_new">Email</a></li>
    </ul>
