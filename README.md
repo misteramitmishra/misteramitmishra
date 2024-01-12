@@ -5,7 +5,7 @@
    </p>
    <p> 🌟🤝 Hi, thank you for visiting my profile. </p>
    <ul type="square">
-      <li>🏡 I am Amit Mishra, from Ayodhya, currently living in Lucknow.</li>
+      <li>🏡 My name is Amit Mishra, I belong to Ayodhya. </li>
       <li> 💻 As a Full Stack Software Engineer with around 4 years of experience in creating high-quality web projects using various technologies and frameworks. </li>
       <li> 👨‍💻 I work as a Software Engineer at Laitkor Consultancy Services, where I focus on Full-stack development. </li>
       <li> 💡 Previously, I worked as a Web Software Developer at DigiCoders Technologies Private Limited, where I honed my web development skills.</li>
